@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">cameraf2b</string>
+
+	  <!-- Modal messages -->
+  <string name="modalOK">OK</string>
+  <string name="modalCancel">Cancel</string>
+
+    <!-- photo -->
+  <string name="photoTitle">SMILE PLEASE!</string>
+  <string name="photoNoConnection">Unable to connect to the camera, sorry.</string>
+
+    <string name="commonFocused">Focussed</string>
+  <string name="commonPictureTaken">Picture taken</string>
+  <string name="commonError">Error</string>
+
+    <string name="errorNoPreview">An error has occurred while previewing the picture</string>
+      <string name="errorFileTransfer">An error has occurred while transfering the picture</string>
+  <string name="errorNoImagesTaken">Error storing image. It has not been saved.</string>
+  <string name="errorStoreEXIF">An error has occurred storing the EXIF metadata</string>
+</resources>
